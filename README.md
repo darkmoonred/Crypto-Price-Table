@@ -3,7 +3,7 @@
 "React app with cryptocurrency API data."
 ```
 
-![](cchart.png)
+![](chartcc.png)
 
 
 ## 🔧 Project Diagram/Workflow:
