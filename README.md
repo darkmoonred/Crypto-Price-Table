@@ -1,5 +1,5 @@
 ## :chart_with_upwards_trend: Cryptocurrency Tracker:
-LIVE HERE: https://falling-queen-0038.on.fleek.co/
+<b>LIVE HERE:</b> https://falling-queen-0038.on.fleek.co/
 (give a moment for the data to load).
 ```
 "React app with cryptocurrency API data."
