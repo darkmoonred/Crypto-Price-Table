@@ -1,6 +1,6 @@
 ## :chart_with_upwards_trend: Cryptocurrency Price Table:
 <b>LIVE HERE:</b> https://falling-queen-0038.on.fleek.co/
-(give a moment for the data to load).
+(give a moment for the data to load)
 <br>
 ```
 "React app with cryptocurrency API data."
